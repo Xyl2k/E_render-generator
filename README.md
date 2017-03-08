@@ -1,5 +1,10 @@
 ![render](https://cloud.githubusercontent.com/assets/8536299/8458062/3163383a-2015-11e5-97c2-0c0f67e93bb1.png)
 
+
+*DEPRECATED*
+===
+This 'tools' is no longer working, please refer to this https://forums.sourceop.com/threads/151533-Is-SourceOP-plugin-no-longer-supported - [archive copy](http://web.archive.org/web/20170308093528/https://forums.sourceop.com/threads/151533-Is-SourceOP-plugin-no-longer-supported)
+
 E_render-generator
 ==================
 
